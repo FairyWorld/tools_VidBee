@@ -3,6 +3,11 @@
 Cette page ne présente que les évolutions visibles par les utilisateurs, sans détails techniques.
 Pour les notes de version complètes, consultez [GitHub Releases](https://github.com/nexmoe/VidBee/releases).
 
+## [v1.3.10](https://github.com/nexmoe/VidBee/releases/tag/v1.3.10) - 2026-04-11
+### Ameliorations
+- Telechargement en un clic active par defaut pour demarrer plus vite des la premiere utilisation.
+- Titres de la liste de telechargement alignes a gauche pour une lecture plus claire.
+
 ## [v1.3.9](https://github.com/nexmoe/VidBee/releases/tag/v1.3.9) - 2026-04-11
 ### Ameliorations
 - Emplacement FFmpeg personnalise plus simple : chemin vers l'executable ou vers le dossier qui le contient.

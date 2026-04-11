@@ -3,6 +3,11 @@
 This page only includes user-visible updates and avoids implementation details.
 For full release notes, see [GitHub Releases](https://github.com/nexmoe/VidBee/releases).
 
+## [v1.3.10](https://github.com/nexmoe/VidBee/releases/tag/v1.3.10) - 2026-04-11
+### Improvements
+- One-click download is enabled by default so you can start downloads faster on first use.
+- Download list titles are easier to read with clearer left alignment.
+
 ## [v1.3.9](https://github.com/nexmoe/VidBee/releases/tag/v1.3.9) - 2026-04-11
 ### Improvements
 - Custom FFmpeg locations are easier to set: use either the executable path or the folder that contains it.

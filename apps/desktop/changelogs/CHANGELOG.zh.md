@@ -3,6 +3,11 @@
 本页只记录你能直接感知到的更新，不展开技术实现细节。
 完整发布记录请查看 [GitHub Releases](https://github.com/nexmoe/VidBee/releases)。
 
+## [v1.3.10](https://github.com/nexmoe/VidBee/releases/tag/v1.3.10) - 2026-04-11
+### 改进
+- 首次使用默认开启一键下载，开始下载更快。
+- 下载列表标题左对齐，阅读更清晰。
+
 ## [v1.3.9](https://github.com/nexmoe/VidBee/releases/tag/v1.3.9) - 2026-04-11
 ### 改进
 - 自定义 FFmpeg 路径更简单：可填写可执行文件路径，或其所在文件夹。
